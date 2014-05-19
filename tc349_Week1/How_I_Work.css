@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* CSS Document 
+
+
+*/
+
+body {
+	font-family:Verdana, Geneva, sans-serif;
+	width: 600px;
+	margin-left: 10px;
+	margin-top: 20px;
+	
+}
+
+h1{
+	font-size: 28px;
+	text-align: center;
+}
+
+#name {
+	font-size: 28px;
+	margin-bottom: -10px;
+	text-align: center;
+}
+
+#intro {
+	text-align: center;
+}
+
+h2 {
+	font-size: 18px;
+	margin-top: 20px;
+	margin-bottom: -10px;
+
+}
+
+p {
+	font-size: 13px;
+	line-height: 18px;
+}
+
+a {
+	color: #828282;
+}
+
+a:hover {
+	color: #3130FF;
+}
+
+a:visited {
+	color: #5C09C9;
+	text-decoration: none;
+}
